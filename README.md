@@ -13,6 +13,7 @@
 - **Gemma:2B LLM Embeddings Analysis for Phrase Similarity:** [plotGemma.py](plotGemma.py)
 - **Gemma:2B LLM Embeddings Analysis for Sentence Similarity:** [plotGemmaSent.py](plotGemmaSent.py)
 - **LLAMA LLM Embeddings Analysis for Sentence Similarity:** [plotLlamaSent.py](plotLlamaSent.py)
+- **LLAMA Based prompting To Extract Cosine Similarity:** [plotPromptPhr.py](plotPromptPhr.py) 
 
 ## Note
 Embedding extraction was performed using Ollama, deployed on a Linux server on GCP with Tesla T4 GPUs, and may not be accessible without similar setup. All other scripts can be run in Jupyter notebooks.

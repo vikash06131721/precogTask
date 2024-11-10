@@ -23,7 +23,7 @@ Gemma:2B LLM embeddings analysis for sentece similarity: plotGemmaSent.py
 LLAMA LLM embeddings analysis for sentece similarity: plotLlamaSent.py
 
 
-###Note
+##Note
 
 Extracting the embeddings was done via Ollama deployed on a Linux server using GCP(Tesla T4 GPUs), so it might not be accessible. Other than that all the other codes can be run via jupyter notebooks.
 

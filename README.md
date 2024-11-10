@@ -18,6 +18,12 @@ LLAMA LLM embeddings analysis for phrase similarity: embeddings-analysis-using-a
 
 Gemma:2B LLM embeddings analysis for phrase similarity: plotGemma.py
 
+Gemma:2B LLM embeddings analysis for sentece similarity: plotGemmaSent.py
+
+LLAMA LLM embeddings analysis for sentece similarity: plotLlamaSent.py
+
+
+
 
 
 

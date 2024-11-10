@@ -14,5 +14,11 @@ Roberta Base Model Trained For 30 epochs For Phrase Similarity :cross_encoder_ph
 Roberta Base Model Trained For 15 epochs For Phrase Similarity: roberta_sent_sim.py
 
 
+LLAMA LLM embeddings analysis for phrase similarity: embeddings-analysis-using-a-LLM-Llama3.2-1B-phrase.ipynb
+
+Gemma:2B LLM embeddings analysis for phrase similarity: plotGemma.py
+
+
+
 
 
